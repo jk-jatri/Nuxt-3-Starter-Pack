@@ -1,15 +1,11 @@
 <template>
-  <div>
-       <h1>Header</h1>
+  <div class="header-v1">
+    <div class="w-10/12 text-center">
+      <h1 class="text-white">Header</h1>
+    </div>
   </div>
 </template>
 
-<script>
-export default {
+<script></script>
 
-}
-</script>
-
-<style>
-
-</style>
+<style></style>

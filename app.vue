@@ -1,5 +1,5 @@
 <template>
-  <NuxtLayout name="common">
+  <NuxtLayout :name="$route.path === '/about' ? 'exceptional' : 'common'">
     <NuxtPage />
   </NuxtLayout>
 </template>

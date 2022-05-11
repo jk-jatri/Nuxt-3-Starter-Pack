@@ -1,15 +1,9 @@
 <template>
-  <div>
-       <h1>Footer</h1>
+  <div class="footer-v1">
+    <h1>Footer</h1>
   </div>
 </template>
 
-<script>
-export default {
+<script></script>
 
-}
-</script>
-
-<style>
-
-</style>
+<style></style>
