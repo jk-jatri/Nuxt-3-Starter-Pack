@@ -1,6 +1,6 @@
 {
   "author": "Joyonto Karmakar",
-  "version":"1.0.0",
+  "version": "1.0.0",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -9,6 +9,10 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^5.0.4",
-    "nuxt": "3.0.0-rc.1"
+    "nuxt": "3.0.0-rc.3"
+  },
+  "dependencies": {
+    "primeicons": "^5.0.0",
+    "primevue": "^3.12.6"
   }
 }
